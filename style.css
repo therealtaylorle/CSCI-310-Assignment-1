@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.nav-bar{
+    display: block;
+    text-align: center;
+    font-size: 17px;
+    background-color: lightskyblue;
+    padding: 14px 16px;
+}
+
+.center{
+    text-align: center;
+}
